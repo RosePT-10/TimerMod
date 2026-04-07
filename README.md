@@ -46,4 +46,4 @@ The largest issue with this mod is that it doesn't know if a quickfight happened
 
 This usually isn't a problem, since missing quickfights typically makes you slower, but it's something to be aware of
 
-Generally I try to not complete races after missing a quickfight, but it really sucks since they're seemingly random :(
+Generally I try to not complete races after missing a quickfight, but it really sucks since they're seemingly random :( 
